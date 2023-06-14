@@ -1,11 +1,19 @@
-(Ainda aprendendo a usar markdown)
-Vamos criar meu clone de tiktok!
-O nome dele vai ser TecoTeco (super criativo)
-Passo 1: Importar as bibliotecas react
+# Apresentação
+
+Este é o repositório do TecoTeco, um clone do TikTok feito com objetivo de aprender um pouco mais sobre React, Node.js e Javascript, na **Jornada Full Stack da EBAC!**
+
+## Passo 1: Importar as bibliotecas react
+
 Na pasta do projeto digitar o comando:
-npx create-react-app .
-Depois desse comando o npm baixou e instalou todos os pacotes necessários, criou o repositório git
-Passo 2: Verificar se deu tudo certo
+
+> npx create-react-app .
+
+Depois desse comando o npm irá baixar todos os pacotes necessários e iniciar o repositório git, excluindo do add as pastas comuns
+
+## Passo 2: Verificar se deu tudo certo
+
 Para verificar se ficou tudo certinho eu executo o comando:
-npm start
-Ele compila tudo e executa um servidor web (eu acho) na porta 3000
+
+> npm start
+
+Ele compila tudo e executa um runtime javascript na porta 3000, permitindo ver o app
